@@ -4,30 +4,30 @@
   const steps = [
     {
       id: "discover",
-      title: "Discover Novel Opportunities",
-      text: "The right problem is the one worth solving. We quickly uncover actionable opportunities through data and business insights, ensuring that every discovery is grounded in what matters most for your business and your users.",
-      tags: ["Business & Market Research", "Data Driven Insights", "UX Audits", "Customer Journey Mapping", "Brand Perception Analysis", "Technical Assessment"],
+      title: "Assess & Strategize",
+      text: "We start by understanding your current infrastructure, business goals, and technical debt. Through comprehensive audits and stakeholder interviews, we identify migration opportunities and create a clear roadmap for digital transformation.",
+      tags: ["Technical Architecture Audit", "Legacy System Assessment", "Drupal Version Analysis", "Integration Requirements", "Security & Compliance Review", "Migration Strategy Planning"],
       graphic: "lines"
     },
     {
       id: "envision",
-      title: "Envision Innovative Strategies",
-      text: "Great strategies don't just come from ideas—they come from clear, actionable plans. We create pragmatic roadmaps that balance ambition with feasibility, focusing on what will drive immediate and long-term impact for both business and users.",
-      tags: ["CX & Product Strategy", "Vision & Roadmapping", "Value Proposition Design", "Northstar Metric Framework", "Brand Strategy & Positioning", "Technical Solution Design"],
+      title: "Design & Architect",
+      text: "Our Drupal experts design scalable, enterprise-grade solutions tailored to your needs. We create detailed technical specifications, information architecture, and integration plans that ensure seamless migration and future scalability.",
+      tags: ["Drupal Architecture Design", "Multi-site Strategy", "API & Integration Planning", "Content Modeling", "Performance Optimization", "Headless CMS Solutions"],
       graphic: "curve"
     },
     {
       id: "build",
-      title: "Build Engaging Touchpoints",
-      text: "We turn strategy into action—fast and efficiently. Whether designing intuitive interfaces, visual identities, or building scalable platforms, we focus on building holistic experiences that are both joyful and effective.",
-      tags: ["UX & UI Design", "Information Architecture", "App & Web Design", "Design Systems", "Content Strategy", "Agile Software Engineering"],
+      title: "Build & Migrate",
+      text: "Using agile methodology, we execute migrations in iterative sprints, minimizing risk and downtime. Our certified Drupal developers build robust, scalable platforms while ensuring data integrity and business continuity throughout the process.",
+      tags: ["Agile Sprint Development", "Drupal Module Development", "Data Migration & ETL", "Custom Integration Build", "Quality Assurance Testing", "Performance Tuning"],
       graphic: "circle-top"
     },
     {
       id: "elevate",
-      title: "Elevate Delivery Capabilities",
-      text: "We make sure teams can deliver better outcomes, faster. By evolving collaborative workflows, upskilling teams, and implementing the right tools, we help you scale with confidence and consistency.",
-      tags: ["AI Consulting", "QA & Delivery", "Process Optimization", "Performance Analytics", "Continuous Improvement", "Change Management"],
+      title: "Launch & Optimize",
+      text: "We don't just deliver—we ensure long-term success. Through continuous monitoring, optimization, and team training, we help your organization maximize ROI and maintain a competitive edge in the digital landscape.",
+      tags: ["DevOps & CI/CD Setup", "Team Training & Knowledge Transfer", "Performance Monitoring", "Security Updates & Patches", "Continuous Improvement", "24/7 Support & Maintenance"],
       graphic: "circle-waves"
     }
   ];

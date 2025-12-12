@@ -1,21 +1,21 @@
 <script lang="ts">
-  // Logos would typically be imports, using text placeholders or SVGs for now
+  // Enterprise client logos
   const logos = [
-    "Allianz",
-    "BMW",
-    "Lufthansa",
-    "Spotify",
-    "Red Bull"
+    "Accenture",
+    "Deloitte",
+    "IBM",
+    "SAP",
+    "Oracle"
   ];
 </script>
 
-<section class="relative min-h-screen flex flex-col justify-end pb-20 px-6 md:px-12 bg-gradient-to-b from-[#2a1b5e] via-[#d4a8a8] to-[#fdfbf7] text-[#1a1a1a]">
+<section class="relative min-h-screen flex flex-col justify-end pb-20 px-6 md:px-12 bg-gradient-to-b from-[#1a1a2e] via-[#4a4a6a] to-[#fdfbf7] text-[#1a1a1a]">
   <!-- Gradient overlay/background handling -->
-  <div class="absolute inset-0 z-[-1] bg-[linear-gradient(180deg,#2e2166_0%,#8c5e8f_40%,#e6b99c_70%,#fff_100%)]"></div>
+  <div class="absolute inset-0 z-[-1] bg-[linear-gradient(180deg,#1a1a2e_0%,#3a3a5a_40%,#8a8aa0_70%,#fff_100%)]"></div>
 
   <div class="max-w-4xl mb-32 pt-40">
     <h1 class="text-3xl md:text-5xl font-medium leading-[1.15] tracking-tight">
-      Your 0 to 1 Partner for Digital Innovation. <span class="text-gray-500">Blending consultancy expertise with agency craft and creativity, we lead ambitious companies from Insight to Impact—fast.</span>
+      Enterprise-Grade Digital Platforms Built on Drupal Expertise. <span class="text-gray-500">We transform mid-market companies with proven migration strategies, agile methodology, and deep technical knowledge—delivering scalable platforms that drive digital transformation.</span>
     </h1>
   </div>
 

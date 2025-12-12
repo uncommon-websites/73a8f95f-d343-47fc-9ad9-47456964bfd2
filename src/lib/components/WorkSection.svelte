@@ -1,53 +1,53 @@
 <script lang="ts">
   const projects = [
     {
-      client: "Red Bull",
-      desc: "A global platform built to Scale, Evolve, and Perform.",
-      bg: "bg-[#000c2d]",
-      img: "", // Placeholder logic handled in template
+      client: "Global Healthcare Provider",
+      desc: "Migrated legacy systems to Drupal 10, serving 5M+ patients.",
+      bg: "bg-[#0a0a1a]",
+      img: "/generated/image-modern-healthcare-digital-platform-dashb-1765569231416-0.webp",
       dark: true
     },
     {
-      client: "Volvo",
-      desc: "Redefining how people experience insurance.",
+      client: "Financial Services Platform",
+      desc: "Built enterprise content hub with multi-site architecture.",
       bg: "bg-gray-200",
-      img: "https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?auto=format&fit=crop&q=80&w=800",
+      img: "/generated/image-financial-services-dashboard-with-data-a-1765569233852-1.webp",
       dark: false
     },
     {
-      client: "The Organics",
-      desc: "Translating a refreshing identity into a bold platform.",
-      bg: "bg-[#8da356]",
-      img: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=800",
+      client: "Manufacturing Enterprise",
+      desc: "Integrated Drupal with SAP for seamless data flow.",
+      bg: "bg-[#2a2a3e]",
+      img: "/generated/image-manufacturing-facility-with-digital-scre-1765569236361-2.webp",
       dark: false
     },
     {
-      client: "Isar Aerospace",
-      desc: "Launching a brand journey into orbit.",
+      client: "Education Technology",
+      desc: "Scalable learning platform reaching 2M+ students globally.",
       bg: "bg-black",
-      img: "",
+      img: "/generated/image-students-using-tablets-and-laptops-in-mo-1765569238803-3.webp",
       dark: true
     },
     {
-      client: "REWE",
-      desc: "Digital Convenience in your Pocket.",
+      client: "Retail Transformation",
+      desc: "Omnichannel e-commerce platform with headless Drupal.",
       bg: "bg-[#f0f0f0]",
-      img: "https://images.unsplash.com/photo-1512428559087-560fa5ce7d87?auto=format&fit=crop&q=80&w=800",
+      img: "https://images.unsplash.com/photo-1556742111-a301076d9d18?auto=format&fit=crop&q=80&w=800",
       dark: false,
-      full: true // Making REWE full width to align last two items
+      full: true // Making full width to align last two items
     },
     {
-      client: "Alpha Tauri",
-      desc: "Designing the interface of wearable intelligence.",
-      bg: "bg-[#e0e0e0]",
-      img: "https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&q=80&w=800",
+      client: "Media & Publishing",
+      desc: "High-performance content delivery for 10M+ monthly visitors.",
+      bg: "bg-[#e8e8e8]",
+      img: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=800",
       dark: false
     },
     {
-      client: "Zalando",
-      desc: "Designing the Zalando E-Commerce Operating System.",
-      bg: "bg-[#d8c5f0]",
-      img: "https://images.unsplash.com/photo-1555421689-49263376da7a?auto=format&fit=crop&q=80&w=800",
+      client: "Government Portal",
+      desc: "Secure, accessible platform serving citizens nationwide.",
+      bg: "bg-[#d0d0e0]",
+      img: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=800",
       dark: false
     }
   ];
@@ -56,7 +56,7 @@
 <section class="px-6 md:px-12 py-24 bg-white">
   <div class="max-w-3xl mb-16">
     <h2 class="text-2xl md:text-3xl font-medium leading-tight">
-      <span class="font-bold">We orchestrate strategy, design, and technology</span> to create digital experiences that connect with millions and give you the edge that sets you apart.
+      <span class="font-bold">We deliver enterprise-grade digital platforms</span> powered by Drupal expertise, agile methodology, and proven migration strategies that transform mid-market companies into digital leaders.
     </h2>
   </div>
 

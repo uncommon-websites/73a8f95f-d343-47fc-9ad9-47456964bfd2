@@ -1,28 +1,28 @@
 <script lang="ts">
   const photos = [
     {
-      title: "Fitness Meets Work",
-      desc: "Stay healthy with our dedicated gym and personal training part of our employee wellness program.",
-      img: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=400"
+      title: "Remote-First Culture",
+      desc: "Work from anywhere with flexible hours. Our distributed team thrives on asynchronous collaboration and trust.",
+      img: "/generated/image-professional-working-remotely-on-laptop--1765569077182-3.webp"
     },
     {
-      title: "Your Social Hub",
-      desc: "Located in vibrant city centers, our offices are places for connection and face-to-face collaboration.",
-      img: "https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?auto=format&fit=crop&q=80&w=400"
+      title: "Community Engagement",
+      desc: "Active participation in DrupalCon, local meetups, and open-source contributions. We learn and grow together.",
+      img: "/generated/image-tech-professionals-networking-at-develop-1765569079711-4.webp"
     },
     {
-      title: "Fueling Creativity",
-      desc: "We care about good food—our in-house chef ensures everyone stays energized and inspired.",
-      img: "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&q=80&w=400"
+      title: "Continuous Learning",
+      desc: "Regular training, certifications, and knowledge sharing sessions keep our team at the cutting edge of Drupal.",
+      img: "/generated/image-developer-studying-code-on-laptop-screen-1765569082316-5.webp"
     }
   ];
 </script>
 
 <section class="py-24 px-6 md:px-12 bg-white">
   <div class="max-w-xl mb-16">
-    <h3 class="text-lg font-bold mb-2">We focus on people, not just projects.</h3>
+    <h3 class="text-lg font-bold mb-2">We invest in expertise, not just execution.</h3>
     <p class="text-gray-500 text-sm leading-relaxed">
-      In a world of digital meetings, we value face-to-face connections. Our culture is built on trust, freedom, and support, fostering personal growth and collaboration that goes beyond just completing tasks—it's about enjoying the journey together.
+      Our remote-first culture attracts top Drupal talent worldwide. We foster deep technical expertise through continuous learning, community involvement, and collaborative problem-solving—building a team that clients trust for their most critical digital transformations.
     </p>
   </div>
 
